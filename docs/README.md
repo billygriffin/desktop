@@ -1,4 +1,4 @@
-# GitHub Desktop Documentation
+# GitHub Desktop Documentation other stuff
 
 This is the [GitHub Desktop](https://github.com/desktop/desktop) development
 documentation.
